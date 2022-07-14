@@ -15,7 +15,7 @@ body, html {
   }
   
 header {
-    margin-top: 2.4rem;
+    margin-top: 1.6rem;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -46,7 +46,7 @@ header > h1 {
 ul {
     box-sizing: border-box;
     list-style: none;
-    margin: 0 auto;
+    margin: -1rem auto;
     padding: 2rem;
     max-width: 480px;
 }
@@ -55,7 +55,7 @@ ul > li {
     background-color: #fffa;
     border-radius: 10rem;
     padding: 1rem;
-    margin: 2.4rem 0;
+    margin: 1.6rem 0;
     box-shadow: #fffa 0px 2px 8px 0px;
 }
 
